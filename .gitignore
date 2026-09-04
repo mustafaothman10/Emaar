@@ -1,0 +1,6 @@
+**/node_modules/
+./application/node_modules/*
+*.d.ts
+*.js.map
+.next
+dist
